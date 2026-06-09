@@ -59,16 +59,18 @@ lakshaysaini181@gmail.com
 
 # 🚀 Featured Projects
 
-## Smart ATS Analyzer
-AI-powered resume analysis platform with modern UI and ATS scoring.
+## CampusFlow
+
+Comprehensive campus management platform designed for colleges and universities. Features include student management, faculty management, attendance tracking, course management, notices, academic records, and role-based dashboards for administrators, faculty, and students.
 
 ## Ninja Deliveries
+
 Food delivery and service booking mobile application built using React Native.
 
 ## Developer Portfolio
+
 Modern animated portfolio built with Next.js and Framer Motion.
 
----
 
 # 📊 GitHub Stats
 
